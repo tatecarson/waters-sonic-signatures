@@ -86,11 +86,38 @@ align: rm-lm
 - **Ivakhiv’s triad**: material, social, perceptual  
 - **Michel Chion**: Materializing Sound Indices  
 - **Ecoacoustics**: computational & perceptual frameworks  
-- **Water** as sonic-ecological material
 
 <!-- 
 An outline of some theoretically points. 
  -->
+
+
+---
+layout: side-title
+color: emerald-light
+titlewidth: is-3
+align: rm-lm
+---
+
+:: title ::
+
+# Cinema as Ecological World-Making
+
+:: content ::
+
+- Cinema creates **worlds** that are not separate from reality, but continuous with it <Cite bref="adrianj.ivakhivEcologiesMovingImage2013"/>.
+- Films can **reshape how we perceive** social and ecological relations.
+- Through **spectacle, narrative, and meaning**, cinema draws us into **relational ecologies** — where perception and world are intertwined.
+- Some films, like Tarkovsky’s, foster **ecological awareness** by revealing the world’s materiality, vitality, and openness to becoming.
+
+<!-- 
+- Source: Adrian J. Ivakhiv (2013), *Ecologies of the Moving Image: Cinema, Affect, Nature*.
+- Cinema is a "process-relational" art: it depicts and participates in the world's constant becoming.
+- Moving images don't just reflect the world; they *move* us, connecting perception and environment.
+- Tarkovsky's water imagery, slow takes, and material textures are ecological gestures, grounding us in shared existence with the more-than-human world.
+- Films can help viewers re-attune to material and ecological realities, resisting disconnection and abstraction.
+-->
+
 
 ---
 layout: side-title
@@ -122,28 +149,60 @@ align: rm-lm
 
 ---
 layout: side-title
-color: emerald-light
+color: teal-light
 titlewidth: is-3
 align: rm-lm
 ---
 
 :: title ::
 
-# Cinema as Ecological World-Making
+# Ecoacoustics and Perception
 
 :: content ::
 
-- Cinema creates **worlds** that are not separate from reality, but continuous with it <Cite bref="adrianj.ivakhivEcologiesMovingImage2013"/>.
-- Films can **reshape how we perceive** social and ecological relations.
-- Through **spectacle, narrative, and meaning**, cinema draws us into **relational ecologies** — where perception and world are intertwined.
-- Some films, like Tarkovsky’s, foster **ecological awareness** by revealing the world’s materiality, vitality, and openness to becoming.
+- **Ecoacoustics** studies soundscape complexity using acoustic indices.
+- Indices correlate with human perceptions:
+  - High **M** and **AR** → perceived **chaotic, annoying, traffic-dominated** soundscapes.
+  - High **NP** and **AEI** → perceived **calm, natural, pleasant** environments.
+- Natural soundscapes foster **nature connectedness** and **ecological engagement**.
+- Anthropogenic sounds promote **alienation** and highlight **human impact**.
+
+<!-- TODO: Review and add sources! -->
 
 <!-- 
-- Source: Adrian J. Ivakhiv (2013), *Ecologies of the Moving Image: Cinema, Affect, Nature*.
-- Cinema is a "process-relational" art: it depicts and participates in the world's constant becoming.
-- Moving images don't just reflect the world; they *move* us, connecting perception and environment.
-- Tarkovsky's water imagery, slow takes, and material textures are ecological gestures, grounding us in shared existence with the more-than-human world.
-- Films can help viewers re-attune to material and ecological realities, resisting disconnection and abstraction.
+- Lawrence et al. (2023) linked acoustic indices to psychoacoustic perception outcomes.
+- Higher acoustic richness and median amplitude correlated with perceptions of annoyance and traffic.
+- Higher acoustic evenness and number of peaks correlated with perceptions of calmness and naturalness.
+- These perceptions can influence environmental attitudes and behaviors.
+-->
+
+---
+layout: side-title
+color: cyan-light
+titlewidth: is-3
+align: rm-lm
+---
+
+:: title ::
+
+# Ecoacoustics in Film Sound Studies
+
+:: content ::
+
+- **Audiovisual ecology** suggests that sound and image together shape ecological perception.
+- Applying **ecoacoustic indices** to **film soundtracks** could:
+  - Reveal sonic environments that cultivate **ecological awareness**.
+  - Differentiate scenes dominated by **natural** vs. **anthropogenic** sounds.
+  - Analyze how soundscapes influence viewer **emotion**, **attention**, and **sense of place**.
+- A step toward **computational ecocinema analysis**.
+
+<!-- TODO: Review and add sources! -->
+
+<!-- 
+- Films already use sound to create worlds; analyzing them with ecoacoustic indices could quantify how soundscapes shape ecological or anti-ecological impressions.
+- A natural, richly textured soundscape could enhance ecological immersion.
+- Anthropogenic noise could intentionally create alienation or critique human impacts.
+- Opens new possibilities for integrating ecoacoustics with film sound analysis and environmental media studies.
 -->
 
 
@@ -159,7 +218,6 @@ color: light
 - **Spreadsheet** fields:  
   - Water Type, Sonic Features, Chionian Function  
   - Ecological Connection, Narrative Role, MSI Level  
-- **Computational tools**: MFCCs, spectral centroid, onset detection
 
 <!-- This is a **note** -->
 
