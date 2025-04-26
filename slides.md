@@ -70,26 +70,15 @@ layout: intro
  -->
 
 
----
-layout: side-title
-color: navy-light
-titlewidth: is-3
-align: rm-lm
----
 
-:: title ::
+---
+layout: section
+color: navy
+---
 
 # Theoretical Context
-
-:: content ::
-
-- **Ivakhiv’s triad**: material, social, perceptual  
-- **Michel Chion**: Materializing Sound Indices  
-- **Ecoacoustics**: computational & perceptual frameworks  
-
-<!-- 
-An outline of some theoretically points. 
- -->
+<hr>
+Cinema as ecological world-making; Materializing Sound Indices;  Ecoacoustics 
 
 
 ---
@@ -105,10 +94,10 @@ align: rm-lm
 
 :: content ::
 
-- Cinema creates **worlds** that are not separate from reality, but continuous with it <Cite bref="adrianj.ivakhivEcologiesMovingImage2013"/>.
-- Films can **reshape how we perceive** social and ecological relations.
-- Through **spectacle, narrative, and meaning**, cinema draws us into **relational ecologies** — where perception and world are intertwined.
-- Some films, like Tarkovsky’s, foster **ecological awareness** by revealing the world’s materiality, vitality, and openness to becoming.
+- Cinema creates worlds that are not separate from reality, but continuous with it <Cite bref="adrianj.ivakhivEcologiesMovingImage2013"/>.
+- Films can reshape how we perceive social and ecological relations.
+- Through spectacle, narrative, and meaning, cinema draws us into relational ecologies — where perception and world are intertwined.
+- Some films, like Tarkovsky’s, foster ecological awareness by revealing the world’s materiality, vitality, and openness to becoming.
 
 <!-- 
 - Source: Adrian J. Ivakhiv (2013), *Ecologies of the Moving Image: Cinema, Affect, Nature*.
@@ -133,9 +122,9 @@ align: rm-lm
 :: content ::
 
 - **MSIs** are sonic details that make us *feel* the physical, material qualities of a sound source [@Chion_Gorbman_2018].
-- Sounds rich in MSIs make scenes feel **tangible** and grounded.
-- Sparse MSIs make sounds feel **ethereal** or **abstract**.
-- **Water** in Tarkovsky's films often acts as a high-MSI material, immersing viewers in a concrete, ecological reality.
+- Sounds rich in MSIs make scenes feel tangible and grounded.
+- Sparse MSIs make sounds feel ethereal or abstract.
+- Water in Tarkovsky's films often acts as a high-MSI material, immersing viewers in a concrete, ecological reality.
 
 
 
@@ -161,13 +150,12 @@ align: rm-lm
 :: content ::
 
 - **Ecoacoustics** studies soundscape complexity using acoustic indices.
-- Indices correlate with human perceptions:
+- Indices correlate with human perceptions [@lawrenceLinkingEcoacousticIndices2023]:
   - High **M** and **AR** → perceived **chaotic, annoying, traffic-dominated** soundscapes.
   - High **NP** and **AEI** → perceived **calm, natural, pleasant** environments.
-- Natural soundscapes foster **nature connectedness** and **ecological engagement**.
-- Anthropogenic sounds promote **alienation** and highlight **human impact**.
+- Natural soundscapes foster **nature connectedness** and **ecological engagement** [@kjaerExploringImpactsSoundscape2025].
+- Anthropogenic sounds promote **alienation** and highlight **human impact** [@liDoesSoundscapePerception2022].
 
-<!-- TODO: Review and add sources! -->
 
 <!-- 
 - Lawrence et al. (2023) linked acoustic indices to psychoacoustic perception outcomes.
@@ -189,7 +177,7 @@ align: rm-lm
 
 :: content ::
 
-- **Audiovisual ecology** suggests that sound and image together shape ecological perception.
+- **Audiovisual ecology** suggests that sound and image together shape ecological perception [@jordanSchizophonicImaginationAudiovisual].
 - Applying **ecoacoustic indices** to **film soundtracks** could:
   - Reveal sonic environments that cultivate **ecological awareness**.
   - Differentiate scenes dominated by **natural** vs. **anthropogenic** sounds.
@@ -206,9 +194,10 @@ align: rm-lm
 -->
 
 
+
 ---
-layout: default
-color: light
+layout: image-left
+image: /images/nostalghia-dog.png
 ---
 
 # Films & Method
@@ -219,21 +208,24 @@ color: light
   - Water Type, Sonic Features, Chionian Function  
   - Ecological Connection, Narrative Role, MSI Level  
 
-<!-- This is a **note** -->
+<!-- 
+**Solaris (1972):**
+Solaris follows psychologist Kris Kelvin as he is dispatched to a space station orbiting the enigmatic planet Solaris, whose vast, oceanic surface mysteriously materializes the deepest memories of its occupants. Kelvin’s encounter with Hari—a physical manifestation of his deceased wife—forces him to confront unresolved grief and the fluid boundaries between reality and memory. Through long takes and immersive soundscapes, the film invites viewers to question the nature of human experience and the interplay of love, loss, and imagination.
 
+**Stalker (1979):**
+Stalker follows a mysterious guide known as the Stalker, who leads two men—a writer and a professor—into the forbidden Zone, a surreal landscape where a Room is rumored to grant one’s deepest wishes. As the trio journeys through an environment that shifts in tune with their inner fears and desires, they grapple with existential uncertainty and the transformative power of their own aspirations. The film’s deliberate pacing, meditative camera work, and atmospheric sound design create a dynamic interplay between the tangible world and the metaphysical realm.
+
+**Nostalghia (1983):**
+Nostalghia centers on the Russian poet Andrei Gorchakov as he travels to Italy in search of artistic and personal meaning, only to become enveloped in a profound sense of longing and alienation. His journey is marked by nostalgic reveries and encounters that blur the boundaries between memory, ritual, and present reality. Through haunting imagery, slow-paced sequences, and persistent water motifs, the film meditates on loss, cultural dislocation, and the bittersweet nature of home.
+-->
 
 ---
-layout: two-cols-title
-columns: is-6
-align: l-lt-lt
-title: Glossary & Tag Categories
+layout: image-right
+image: /images/spreadsheet.png
 ---
 
-:: title ::
 
 # Glossary & Tag Categories
-
-:: left ::
 
 - **Water Type**: flowing, dripping, still  
 - **Sonic Features**: reverberant, layered, low-frequency  
@@ -241,38 +233,42 @@ title: Glossary & Tag Categories
 - **Ecological Connection**: water as memory, habitat, contamination  
 - **MSI Level**: Material–Social–Imaginal axis
 
-:: right ::
-
-- See full tag list in the spreadsheet
 
 <!-- This is a **note** -->
 
-
 ---
-layout: top-title-two-cols
-color: amber-light
-columns: is-6
-align: l-lt-lt
-title: Data Patterns
+layout: default
 ---
 
-:: title ::
+# Bar chart
 
-# Patterns in the Data
+![](/images/figures/fig_water_type_bar.svg)
 
-:: left ::
+<!-- 
+- This bar chart shows the **number of scenes** associated with each water type across *Stalker*, *Solaris*, and *Nostalghia*.
+- We can see that *Stalker* dominates in **Pond Stillness** and **Splashing**, reflecting its marshy, still environment.
+- *Solaris* shows a strong concentration in **Submersion**, matching its focus on psychological immersion and interior memory spaces.
+- *Nostalghia* spreads its water types more evenly, with notable usage of **Flowing**, **Gurgling**, and **Rain**.
+- This quantitative view emphasizes how **scene counts** differ, not just presence—showing Tarkovsky's evolving soundscape strategies across films.
 
-- **Solaris** → ambient aquatic drones  
-- **Stalker** → dripping & stillness  
-- **Nostalghia** → meditative water motifs  
+-->
 
-:: right ::
+---
+layout: default
+---
 
-> *Bar chart of Water Types per film*  
-> *Pie chart of Sonic Features distribution*
+# Heatmap
 
-<!-- This is a **note** -->
+![](/images/figures/fig_heatmap_water_tags.svg)
 
+<!-- 
+- This heatmap visualizes the **distribution** of water types across the three films.
+- Brighter colors and higher numbers indicate more frequent use of that sonic element.
+- *Stalker* again shows strong concentrations in **Pond Stillness** and **Splashing**, defining its sonic texture.
+- *Solaris* has fewer overall types but focuses sharply on **Submersion** and **Dripping**.
+- *Nostalghia* displays the widest range, suggesting a pervasive, ambient integration of water sounds.
+- The heatmap highlights **pattern and intensity**, helping us see shifts in Tarkovsky's sonic-ecological approach over time.
+-->
 
 ---
 layout: side-title
@@ -327,23 +323,18 @@ layout: section
 
 ---
 layout: biblio
+biblio:
+  item_per_page: 5
 ---
 
 
 ---
-layout: credits
+layout: section
 color: navy
-speed: 2.0
-loop: false
 ---
 
-<div class="grid text-size-4 grid-cols-1 w-3/4 gap-y-4 ml-auto mr-auto">
-  <div class="grid-item text-center col-span-1">
-    <strong>Questions & Discussion</strong>
-  </div>
-  <div class="grid-item text-center col-span-1">
-    Contact: your.email@domain.edu
-  </div>
-</div>
+## Contact 
+
+tatecarson@pm.me
 
 <!-- This is a **note** -->
