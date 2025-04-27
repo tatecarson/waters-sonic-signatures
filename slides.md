@@ -273,26 +273,48 @@ layout: default
 ---
 layout: side-title
 color: emerald-light
-titlewidth: is-3
+titlewidth: is-1
 align: rm-lm
 ---
 
 :: title ::
 
-# Scene Analysis Examples
+# Rain 
 
 :: content ::
 
-**1. Stalker**: Rain in the Room  
-- MSI Level: High  
-- Chionian: Affective, Material  
-- Narrative: Climax & transformation  
+![](/images/figures/rain_calmness_heatmap.svg)
 
-**2. Nostalghia**: Candle-pool Ritual  
-- Water as portal & memory  
-- Sonic ambiguity: rain vs. reverie cues
+<!--
+Overview:
+- This figure shows Tarkovsky’s Rain scenes ordered by an ecoacoustic calmness score.
+  - Calmness is defined as: (+ NP + AEI) – (M + AR)
+  - where:
+    - NP = Number of Peaks (higher = calming, more natural detail)
+    - AEI = Acoustic Evenness Index (higher = even, less masked spectrum)
+    - M = Median Amplitude (lower = quieter)
+    - AR = Acoustic Richness (lower = less monotonous, less mechanical noise)
 
-<!-- This is a **note** -->
+Color Interpretation:
+  - Dark blue = lower value for that index
+  - Yellow = mid-range
+  - Red = high value
+  - NP and AEI are positive indicators — higher values are more calming
+  - M and AR are negative indicators — lower values are more calming
+
+Scene Order:
+  - Top scenes (e.g., Nostalghia Scene16, Nostalghia Scene05)
+    → have high NP and AEI, low M and AR
+    → correspond to calm environments: dripping rain, distant reverberation, ritual moments.
+  - Bottom scenes (e.g., Solaris Scene16, Solaris Scene15)
+  → have lower NP and AEI, or higher M and AR
+  → denser water movement sounds, final narrative intensities.
+
+Narrative Connection:
+  - The calmest scenes align with moments of memory, ritual, and thresholds in Tarkovsky’s films.
+  - Sonic calmness reinforces slow, contemplative narrative structures.
+  - Scenes of higher density correspond to narrative climaxes or emotional confrontations.
+-->
 
 
 ---
