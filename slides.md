@@ -183,9 +183,6 @@ align: rm-lm
   - Differentiate scenes dominated by **natural** vs. **anthropogenic** sounds.
   - Analyze how soundscapes influence viewer **emotion**, **attention**, and **sense of place**.
 - A step toward **computational ecocinema analysis**.
-
-<!-- TODO: Review and add sources! -->
-
 <!-- 
 - Films already use sound to create worlds; analyzing them with ecoacoustic indices could quantify how soundscapes shape ecological or anti-ecological impressions.
 - A natural, richly textured soundscape could enhance ecological immersion.
@@ -316,6 +313,16 @@ Narrative Connection:
   - Scenes of higher density correspond to narrative climaxes or emotional confrontations.
 -->
 
+---
+layout: default
+---
+
+# Rain Scene: Hotel Room
+
+<video controls style="max-width: 100%; height: auto; display: block; margin: auto;">
+  <source src="/video/Nostalghia_Scene05_HotelRoomRain.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ---
 layout: default
