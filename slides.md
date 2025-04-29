@@ -218,7 +218,7 @@ image: /images/spreadsheet.png
 layout: default
 ---
 
-![](/images/figures/fig_water_type_bar.svg)
+![](./images/figures/fig_water_type_bar.svg)
 
 <!-- 
 - This bar chart shows the **number of scenes** associated with each water type across *Stalker*, *Solaris*, and *Nostalghia*.
@@ -244,7 +244,7 @@ align: rm-lm
 
 :: content ::
 
-![](/images/figures/rain_calmness_heatmap.svg)
+![](./images/figures/rain_calmness_heatmap.svg)
 
 <!--
 Overview:
