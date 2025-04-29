@@ -218,7 +218,7 @@ image: /images/spreadsheet.png
 layout: default
 ---
 
-![](./images/figures/fig_water_type_bar.svg)
+![](/figures/fig_water_type_bar.svg)
 
 <!-- 
 - This bar chart shows the **number of scenes** associated with each water type across *Stalker*, *Solaris*, and *Nostalghia*.
@@ -232,19 +232,10 @@ layout: default
 
 
 ---
-layout: side-title
-color: emerald-light
-titlewidth: is-1
-align: rm-lm
+layout: default
 ---
 
-:: title ::
-
-# Rain 
-
-:: content ::
-
-![](./images/figures/rain_calmness_heatmap.svg)
+<img src="/figures/rain_calmness_heatmap.svg" style="max-height: 500px;">
 
 <!--
 Overview:
@@ -281,7 +272,7 @@ Narrative Connection:
 layout: default
 ---
 
-# Rain Scene: Hotel Room
+# Nostalghia: Hotel Room
 
 <video controls style="max-width: 100%; height: auto; display: block; margin: auto;">
   <source src="/video/Nostalghia_Scene05_HotelRoomRain.mp4" type="video/mp4" />
@@ -333,6 +324,7 @@ color: navy
 
 ## Contact 
 
+Tate Carson
 tatecarson@pm.me
 
 <!-- This is a **note** -->
