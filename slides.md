@@ -22,7 +22,7 @@ Computational Sound Studies and Ecological Awareness in Tarkovsky's Films
 **Tate Carson**, **Dakota State University**
 
 <!--
-Andrei Tarkovsky's films frequently employ water as a powerful sonic and visual element, evoking profound ecological and emotional resonance. This project applies computational and qualitative analysis to explore how water's sounds in *Solaris*, *Stalker*, and *Nostalghia* shape narrative ecological consciousness.
+When we watch Tarkovsky's films, water isn't just a background element—it speaks to us through both sound and image, creating what I believe is a profound ecological awareness. In my research, I've combined computational methods with qualitative analysis to explore how the sounds of water specifically in Solaris, Stalker, and Nostalghia contribute to this environmental consciousness.
 -->
 
 
@@ -34,8 +34,9 @@ image: /images/stalker-rain.png
 <!--
 ## Why Water and Tarkovsky?
 
-and in Sculpting in Time about rain Tarkovsky wrote: 
-"Rain, fire, water, snow, dew, the driving ground wind—all are part of the material setting in which we dwell; I would even say of the truth of our lives. I am therefore puzzled when I am told that people cannot simply enjoy watching nature, when it is lovingly reproduced on the screen, but have to look for some hidden meaning. Of course rain can just be seen as bad weather, whereas I use it to create a particular aesthetic setting in which to steep the action of the film. But that is not at all the same thing as bringing nature into my films as a symbol of something else—Heaven forbid!"
+In his book Sculpting in Time, Tarkovsky offers us a fascinating glimpse into his thinking about natural elements like water. He reflects on rain, saying it's not just symbolic weather but part of 'the truth of our lives.' What strikes me about his perspective is how he seems almost defensive when people search for hidden meanings in his natural imagery. He tells us quite directly: 'I am puzzled when I am told that people cannot simply enjoy watching nature.' For him, these elements create an 'aesthetic setting' rather than functioning as symbols—something he rejects with a passionate 'Heaven forbid!'
+
+This tension between Tarkovsky's stated intentions and how his films actually affect us as viewers is exactly what makes his use of water sounds so compelling to explore.
 -->
 
 ---
@@ -45,14 +46,15 @@ layout: intro
 # Motivation & Research Question
 
 - This project explores how water sounds in Tarkovsky’s *Solaris*, *Stalker*, and *Nostalghia* operate as more than atmospheric effects or mere symbols.
-- I ask:  
-  > *How do these sonic treatments of water contribute to ecological awareness?*
+
+> *How do these sonic treatments of water contribute to ecological awareness?*
 
 <!-- 
-- The inspiration for this project came from my initial viewing of Tarkovsky's *Stalker* about a year ago. The film had a profound impact on me, unlike any other film I'd seen before—its unique cinematic language and portrayal of nature felt both unique, but at the same time deeply resonant.
-- Tarkovsky’s treatment of nature captivated me, specifically his use of natural elements, not merely as symbolic imagery, but as tangible experiences encountered by his characters.
-- When I learned of the conference theme, the connection seemed clear. Tarkovsky extensively features water in his works, particularly in the three films I've chosen for analysis, Solaris, Stalker, and Nostalghia.
-- This project aims to investigate how Tarkovsky employs water sonically, using qualitative and quantitative methods to determine whether his films can indeed enhance viewers' ecological awareness or consciousness.
+So what got me started on this journey? About a year ago, I watched Stalker for the first time, and honestly, it affected me like no film had before. There was something about Tarkovsky's cinematic language—particularly how he portrays nature—that felt completely unique yet somehow deeply familiar.
+
+What really captivated me wasn't just the visual imagery of natural elements, but how they seem to exist as actual experiences his characters encounter. When I saw this conference's theme, the connection clicked immediately. Water is everywhere in Tarkovsky's films, especially in these three works I've chosen to analyze.
+
+What I'm really trying to understand here is how Tarkovsky uses water not just visually but sonically. I'm combining qualitative and quantitative approaches to explore whether the sound design might actually enhance our ecological awareness when we experience his films.
  -->
 
 
@@ -87,11 +89,11 @@ align: rm-lm
 - Audiovisual ecology suggests that sound and image together shape ecological perception [@jordanSchizophonicImaginationAudiovisual].
 
 <!-- 
-- Source: Adrian J. Ivakhiv (2013), *Ecologies of the Moving Image: Cinema, Affect, Nature*.
-- Cinema is a "process-relational" art: it depicts and participates in the world's constant becoming.
-- Moving images don't just reflect the world; they *move* us, connecting perception and environment.
-- Tarkovsky's water imagery, slow takes, and material textures are ecological gestures, grounding us in shared existence with the more-than-human world.
-- Films can help viewers re-attune to material and ecological realities, resisting disconnection and abstraction.
+Let me frame the theoretical foundation for my analysis. Ivakhiv's work has been crucial here—he argues that cinema doesn't create worlds separate from reality, but continuous with it. Films actively reshape how we perceive both social and ecological relationships around us.
+
+What's intriguing is how cinema uses spectacle, narrative, and meaning to draw us into what I'd call relational ecologies—these spaces where our perception and the world become deeply intertwined.
+
+Tarkovsky's films exemplify this perfectly. They foster ecological awareness by making visible the world's materiality and vitality. And this is where sound becomes so critical—as Jordan's concept of audiovisual ecology suggests, it's not just the images but the sounds working together that shape our ecological perception. In Tarkovsky's case, those water sounds aren't just background—they're actively creating our experience of his cinematic world.
 -->
 
 
@@ -114,9 +116,11 @@ align: rm-lm
 - Water in Tarkovsky's films often acts as a high-MSI material, immersing viewers in a concrete, ecological reality.
 
 <!-- 
-- MSIs highlight how sound conveys material texture: friction, impact, oscillation.
-- Real acoustic reverbs materialize sounds; synthetic reverbs can dematerialize them.
-- In Tarkovsky’s films, water often carries heavy materializing detail (e.g., dripping, splashing), rooting the audience in the "here-and-now."
+Now let's explore a key concept from film sound theory that's particularly relevant to Tarkovsky's work. Chion introduces this idea of Materializing Sound Indices, or MSIs—those sonic details that make us physically feel the material qualities of what we're hearing.
+
+What's captivating here is how sounds rich in these MSIs can make scenes feel tangible and grounded in physical reality. On the flip side, when MSIs are sparse, sounds take on a more ethereal or abstract quality.
+
+In Tarkovsky's films, water frequently functions as this high-MSI material. Think about the detailed acoustic texture of dripping water or the specific resonance of splashing—these sounds immerse viewers in a concrete, ecological reality by constantly pulling us back to the 'here-and-now' of the physical world.
 -->
 
 ---
@@ -140,15 +144,16 @@ align: rm-lm
 | Number of Peaks (**NP**)                                          | Count of sudden transients across bands           | Drips, insects, bird calls     | Detailed, lively, “natural”                              |
 
 <!-- 
-- Lawrence et al. (2023) linked acoustic indices to psychoacoustic perception outcomes.
-- Definitions
-  - Median Amplitude (M) - Median amplitude divided by maximum amplitude of the whole clip. Closer to 1 → overall loud; closer 0 → mostly quiet with occasional peaks.
-  - Acoustic Richness (AR) - Combines M and Ht ranks. High AR means a clip is both loud and dynamically varied—often used as a quick “soundscape richness” surrogate.
-  - Number of Peaks (NP) - Counts sudden boosts in power in each frequency bin across the clip. More peaks → more transient detail (e.g., insect stridulation, drips). Zero means a perfectly flat spectrum.
-  - Acoustic Evenness Index (AEI) - Uses the Gini coefficient (In ecoacoustics it gauges how evenly energy is spread across frequency bands.): 0 = every bin equally loud (even); 1 = all energy crammed into a few bins (uneven).
-- Higher acoustic richness and median amplitude correlated with perceptions of annoyance and traffic.
-- Higher acoustic evenness and number of peaks correlated with perceptions of calmness and naturalness.
-- These perceptions can influence environmental attitudes and behaviors.
+Let's dive into some specific acoustic measures that help us understand how water sounds might affect viewers. This table shows four key indices from ecoacoustics research.
+
+When we look at Acoustic Evenness or AEI, we're measuring how balanced the energy is across the frequency spectrum—think of sounds like gentle rain or surf, which tend to feel calm and pleasant to listeners.
+
+Acoustic Richness combines loudness with variation—it's typically high in complex urban soundscapes mixing traffic and machinery, which most people perceive as busy or stressful.
+
+Median Amplitude tells us about the relationship between overall loudness and quiet moments. When this value is high, like in a constant background hum, listeners often experience it as chaotic or annoying.
+
+Finally, Number of Peaks counts those sudden transients across frequency bands—things like water drips, insect sounds, or bird calls. These detailed, transient sounds typically register as lively and natural to our perception.
+These indices give us concrete ways to analyze how Tarkovsky's water sounds might be shaping our ecological awareness.
 -->
 
 ---
@@ -171,10 +176,13 @@ align: rm-lm
 - A step toward computational ecocinema analysis.
 
 <!-- 
-- Films already use sound to create worlds; analyzing them with ecoacoustic indices could quantify how soundscapes shape ecological or anti-ecological impressions.
-- A natural, richly textured soundscape could enhance ecological immersion.
-- Anthropogenic noise could intentionally create alienation or critique human impacts.
-- Opens new possibilities for integrating ecoacoustics with film sound analysis and environmental media studies.
+What I'm proposing here is a novel methodological bridge between two fields that don't typically talk to each other. By applying these ecoacoustic indices to film soundtracks, we can start to quantify something that's usually discussed only qualitatively.
+
+This approach could reveal exactly which sonic environments might cultivate ecological awareness in viewers. It gives us concrete ways to differentiate scenes dominated by natural elements versus those filled with human-made sounds.
+
+Beyond just identifying what's in the soundtrack, these indices help us analyze how these soundscapes influence viewers' emotions, where they direct their attention, and how they develop a sense of place within the film.
+
+I see this as an important step toward what we might call computational ecocinema analysis—bringing quantitative methods to questions that have largely been explored through critical theory alone.
 -->
 
 
@@ -191,14 +199,11 @@ image: /images/nostalghia-dog.png
 
 
 <!-- 
-**Solaris (1972):**
-Solaris follows psychologist Kris Kelvin as he is dispatched to a space station orbiting the enigmatic planet Solaris, whose vast, oceanic surface mysteriously materializes the deepest memories of its occupants. Kelvin’s encounter with Hari—a physical manifestation of his deceased wife—forces him to confront unresolved grief and the fluid boundaries between reality and memory. Through long takes and immersive soundscapes, the film invites viewers to question the nature of human experience and the interplay of love, loss, and imagination.
+For this study, I'm focusing on three of Tarkovsky's most water-rich films—Solaris from 1972, Stalker from 1979, and Nostalghia from 1983. Together, these works span a significant portion of his filmography and showcase his evolving relationship with water as both a visual and sonic element.
 
-**Stalker (1979):**
-Stalker follows a mysterious guide known as the Stalker, who leads two men—a writer and a professor—into the forbidden Zone, a surreal landscape where a Room is rumored to grant one’s deepest wishes. As the trio journeys through an environment that shifts in tune with their inner fears and desires, they grapple with existential uncertainty and the transformative power of their own aspirations. The film’s deliberate pacing, meditative camera work, and atmospheric sound design create a dynamic interplay between the tangible world and the metaphysical realm.
+My methodological approach involves going through each film scene by scene and meticulously tagging every moment where water appears as a significant sonic event (including when we see water, but don't hear it). This allows me to build a comprehensive catalog of how water sounds function across these works.
 
-**Nostalghia (1983):**
-Nostalghia centers on the Russian poet Andrei Gorchakov as he travels to Italy in search of artistic and personal meaning, only to become enveloped in a profound sense of longing and alienation. His journey is marked by nostalgic reveries and encounters that blur the boundaries between memory, ritual, and present reality. Through haunting imagery, slow-paced sequences, and persistent water motifs, the film meditates on loss, cultural dislocation, and the bittersweet nature of home.
+What's particularly interesting about these three films is how they represent different facets of Tarkovsky's water exploration—from the vast, mysterious ocean-planet in Solaris to the puddles and rain-drenched landscapes of Stalker and finally to the ritualistic water imagery in Nostalghia with its famous candle-carrying scene.
 -->
 
 ---
@@ -221,11 +226,13 @@ layout: default
 ![](/figures/fig_water_type_bar.svg)
 
 <!-- 
-- This bar chart shows the **number of scenes** associated with each water type across *Stalker*, *Solaris*, and *Nostalghia*.
-- We can see that *Stalker* dominates in **Pond Stillness** (Quiet, motionless water; represents contemplation or spiritual calm.) and **Splashing**, reflecting its marshy, still environment.
-- *Solaris* shows a strong concentration in **Submersion** (Underwater perspective; conveys immersion, distortion, or dream states.), matching its focus on psychological immersion and interior memory spaces.
-- *Nostalghia* spreads its water types more evenly, with notable usage of **Flowing**, **Gurgling**, and **Rain**.
-- This quantitative view emphasizes how **scene counts** differ, not just presence—showing Tarkovsky's evolving soundscape strategies across films.
+Here's where we see quantitative evidence of how Tarkovsky employs different water types across these three films. What's fascinating is how each film develops its own distinctive water signature. Stalker overwhelmingly features pond stillness and splashing scenes, which perfectly aligns with its marshy Zone environment where still waters invite philosophical contemplation and spiritual questioning.
+
+Solaris, on the other hand, shows a pronounced emphasis on submersion scenes - underwater perspectives that convey immersion, distortion, or dream states. This approach brilliantly reinforces the film's psychological immersion and preoccupation with memory. We literally and figuratively enter the underwater consciousness of the characters.
+
+With Nostalghia, we see a more distributed pattern across water types, particularly flowing water, gurgling sounds, and rain sequences. This diverse water soundscape reflects the film's themes of displacement and emotional fluidity.
+
+What's particularly valuable about this quantitative analysis is that it shows us not just the presence of water, but the specific frequency of different water scenes across these works - revealing how Tarkovsky's sonic strategies evolved throughout his filmography.
 
 -->
 
@@ -238,34 +245,13 @@ layout: default
 <img src="/figures/rain_calmness_heatmap.svg" style="max-height: 500px;">
 
 <!--
-Overview:
-- This figure shows Tarkovsky’s Rain scenes ordered by an ecoacoustic calmness score.
-  - Calmness is defined as: (+ NP + AEI) – (M + AR)
-  - where:
-    - NP = Number of Peaks (higher = calming, more natural detail)
-    - AEI = Acoustic Evenness Index (higher = even, less masked spectrum)
-    - M = Median Amplitude (lower = quieter)
-    - AR = Acoustic Richness (lower = less monotonous, less mechanical noise)
+This heatmap presents a way to quantify the 'calmness' of Tarkovsky's rain scenes using ecoacoustic analysis. The formula we're using weighs positive elements like Number of Peaks and Acoustic Evenness against negative factors like Median Amplitude and Acoustic Richness.
 
-Color Interpretation:
-  - Dark blue = lower value for that index
-  - Yellow = mid-range
-  - Red = high value
-  - NP and AEI are positive indicators — higher values are more calming
-  - M and AR are negative indicators — lower values are more calming
+Looking at the color coding - red indicates high values, yellow is mid-range, and dark blue shows lower values. What's crucial to understand is that for NP and AEI, higher values (redder colors) contribute to calmness, while for M and AR, lower values (bluer colors) make a scene feel more calm.
 
-Scene Order:
-  - Top scenes (e.g., Nostalghia Scene16, Nostalghia Scene05)
-    → have high NP and AEI, low M and AR
-    → correspond to calm environments: dripping rain, distant reverberation, ritual moments.
-  - Bottom scenes (e.g., Solaris Scene16, Solaris Scene15)
-  → have lower NP and AEI, or higher M and AR
-  → denser water movement sounds, final narrative intensities.
+When we arrange the scenes by their overall calmness score, patterns emerge that align remarkably with narrative function. Notice how the calmest scenes at the top - like Nostalghia Scene16 and Scene05 - feature gentle dripping rain and distant reverberation. These precisely correspond to moments of ritual, memory, and threshold experiences in the films.
 
-Narrative Connection:
-  - The calmest scenes align with moments of memory, ritual, and thresholds in Tarkovsky’s films.
-  - Sonic calmness reinforces slow, contemplative narrative structures.
-  - Scenes of higher density correspond to narrative climaxes or emotional confrontations.
+In contrast, the scenes at the bottom from Solaris display denser water movements and correspond to narrative climaxes or emotional confrontations. This quantitative approach reveals how Tarkovsky's sonic strategies actively reinforce his signature contemplative narrative structure - it's not just aesthetic preference, but a carefully calibrated technique linking sound design to narrative function.
 -->
 
 ---
@@ -298,13 +284,13 @@ align: rm-lm
 - Future work: other water types, more computational descriptors
   
 <!--
-This project introduces *sonic-ecological agency*—a framework for understanding how water sounds in film actively shape ecological perception by mediating relationships between characters, environments, and viewers. Drawing on Jordan’s theory of audiovisual ecology and Ivakhiv’s process-relational model of cinema, the framework views sound as an agent in world-making—not just representational, but affective and ecological.
+To conclude, I'm proposing a new framework I call 'sonic-ecological agency' that helps us understand how water sounds in film actively shape our ecological perception. This isn't just about background ambience - these sounds actively mediate relationships between characters, environments, and us as viewers.
 
-My computational study focused on rain scenes, using ecoacoustic indices associated with calmness and naturalness. These indices helped identify how Tarkovsky’s sonic environments might cultivate an attunement to place, reinforcing Ivakhiv’s claim that cinema reshapes perceptual ecologies.
+What's particularly valuable about this approach is how it bridges traditionally separate fields - film sound studies and ecoacoustics. By drawing on Jordan's audiovisual ecology theory and Ivakhiv's process-relational model, we can understand sound as an agent in world-making that works on affective and ecological levels, not just representational ones.
 
-Future work will extend to other water types (e.g., dripping, splashing) to compare acoustic textures, narrative roles, and Chionian functions. These sonic categories—when aligned with narrative and perceptual structure—may help reveal broader patterns of ecological meaning.
+The computational methods I've demonstrated today with the rain scene analysis show how quantitative approaches can enrich ecocinema studies. Those ecoacoustic indices measuring calmness and naturalness reveal how Tarkovsky's sonic environments cultivate what we might call an 'attunement to place' - reinforcing Ivakhiv's argument that cinema fundamentally reshapes our perceptual ecologies.
 
-While this study used established ecoacoustic indices, I plan to integrate more refined computational descriptors and develop a perception study to better link sonic features with embodied and affective responses.
+Looking forward, I plan to extend this analysis to other water types like dripping and splashing to build a more comprehensive understanding of acoustic textures and their narrative roles. I'm also interested in developing more refined computational descriptors and designing a perception study to better connect these sonic features with embodied and affective responses from viewers. This work opens up new possibilities for understanding how film sound shapes our relationship with the natural world.
 -->
 
 
