@@ -132,12 +132,12 @@ align: rm-lm
 
 :: content ::
 
-| **Index**                                                         | **What it measures (in a nutshell)**              | **High value sounds like…**    | **Typical perception**                                     |
-| ----------------------------------------------------------------- | ------------------------------------------------- | ------------------------------ | ---------------------------------------------------------- |
-| Median Amplitude (**M**) [@lawrenceLinkingEcoacousticIndices2023] | Overall loudness vs. quiet gaps                   | Constant roar/back- ground hum | Chaotic, annoying   [@kjaerExploringImpactsSoundscape2025] |
-| Acoustic Richness (**AR**)                                        | Loud *and* dynamically varied                     | Traffic + machinery mix        | Busy, stressful                                            |
-| Number of Peaks  (**NP**)                                         | Count of sudden transients across bands           | Drips, insects, bird calls     | Detailed, lively, “natural”                                |
-| Acoustic Evenness (**AEI**)                                       | How evenly energy fills the spectrum (Gini-style) | Balanced rain, gentle surf     | Calm, pleasant                                             |
+| **Index**                                                         | **What it measures (in a nutshell)**              | **High value sounds like…**    | **Typical perception**                                   |
+| ----------------------------------------------------------------- | ------------------------------------------------- | ------------------------------ | -------------------------------------------------------- |
+| Acoustic Evenness (**AEI**)                                       | How evenly energy fills the spectrum (Gini-style) | Balanced rain, gentle surf     | Calm, pleasant                                           |
+| Acoustic Richness (**AR**)                                        | Loud _and_ dynamically varied                     | Traffic + machinery mix        | Busy, stressful                                          |
+| Median Amplitude (**M**) [@lawrenceLinkingEcoacousticIndices2023] | Overall loudness vs. quiet gaps                   | Constant roar/back- ground hum | Chaotic, annoying [@kjaerExploringImpactsSoundscape2025] |
+| Number of Peaks (**NP**)                                          | Count of sudden transients across bands           | Drips, insects, bird calls     | Detailed, lively, “natural”                              |
 
 <!-- 
 - Lawrence et al. (2023) linked acoustic indices to psychoacoustic perception outcomes.
@@ -324,7 +324,8 @@ color: navy
 
 ## Contact 
 
-Tate Carson
+Tate Carson | 
+tatecarson.com |
 tatecarson@pm.me
 
 <!-- This is a **note** -->
