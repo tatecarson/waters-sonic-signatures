@@ -118,7 +118,7 @@ align: rm-lm
 <!-- 
 Now let's explore a key concept from film sound theory that's particularly relevant to Tarkovsky's work. Chion introduces this idea of Materializing Sound Indices, or MSIs—those sonic details that make us physically feel the material qualities of what we're hearing.
 
-What's captivating here is how sounds rich in these MSIs can make scenes feel tangible and grounded in physical reality. On the flip side, when MSIs are sparse, sounds take on a more ethereal or abstract quality.
+Sounds rich in these MSIs can make scenes feel tangible and grounded in physical reality. On the flip side, when MSIs are sparse, sounds take on a more ethereal or abstract quality.
 
 In Tarkovsky's films, water frequently functions as this high-MSI material. Think about the detailed acoustic texture of dripping water or the specific resonance of splashing—these sounds immerse viewers in a concrete, ecological reality by constantly pulling us back to the 'here-and-now' of the physical world.
 -->
@@ -144,7 +144,7 @@ align: rm-lm
 | Number of Peaks (**NP**)                                          | Count of sudden transients across bands           | Drips, insects, bird calls     | Detailed, lively, “natural”                              |
 
 <!-- 
-Let's dive into some specific acoustic measures that help us understand how water sounds might affect viewers. This table shows four key indices from ecoacoustics research.
+I'll now describe some specific acoustic measures that help us understand how water sounds might affect viewers. This table shows four key indices from ecoacoustics research.
 
 When we look at Acoustic Evenness or AEI, we're measuring how balanced the energy is across the frequency spectrum—think of sounds like gentle rain or surf, which tend to feel calm and pleasant to listeners.
 
@@ -153,6 +153,7 @@ Acoustic Richness combines loudness with variation—it's typically high in comp
 Median Amplitude tells us about the relationship between overall loudness and quiet moments. When this value is high, like in a constant background hum, listeners often experience it as chaotic or annoying.
 
 Finally, Number of Peaks counts those sudden transients across frequency bands—things like water drips, insect sounds, or bird calls. These detailed, transient sounds typically register as lively and natural to our perception.
+
 These indices give us concrete ways to analyze how Tarkovsky's water sounds might be shaping our ecological awareness.
 -->
 
@@ -226,9 +227,9 @@ layout: default
 ![](/figures/fig_water_type_bar.svg)
 
 <!-- 
-Here's where we see quantitative evidence of how Tarkovsky employs different water types across these three films. What's fascinating is how each film develops its own distinctive water signature. Stalker overwhelmingly features pond stillness and splashing scenes, which perfectly aligns with its marshy Zone environment where still waters invite philosophical contemplation and spiritual questioning.
+This chart provides quantitative evidence of how Tarkovsky employs different water types across these three films. We can see how each film develops its own distinctive water signature. Stalker overwhelmingly features pond stillness, seeing still soundless water, and splashing scenes, which perfectly aligns with its marshy Zone environment where still waters invite philosophical contemplation and spiritual questioning.
 
-Solaris, on the other hand, shows a pronounced emphasis on submersion scenes - underwater perspectives that convey immersion, distortion, or dream states. This approach brilliantly reinforces the film's psychological immersion and preoccupation with memory. We literally and figuratively enter the underwater consciousness of the characters.
+Solaris, on the other hand, shows a pronounced emphasis on submersion scenes - of the ocean of Solaris. We don't dive into the ocean, but immerse in it psychologically. We literally and figuratively enter the underwater consciousness of the characters.
 
 With Nostalghia, we see a more distributed pattern across water types, particularly flowing water, gurgling sounds, and rain sequences. This diverse water soundscape reflects the film's themes of displacement and emotional fluidity.
 
@@ -247,7 +248,7 @@ layout: default
 <!--
 This heatmap presents a way to quantify the 'calmness' of Tarkovsky's rain scenes using ecoacoustic analysis. The formula we're using weighs positive elements like Number of Peaks and Acoustic Evenness against negative factors like Median Amplitude and Acoustic Richness.
 
-Looking at the color coding - red indicates high values, yellow is mid-range, and dark blue shows lower values. What's crucial to understand is that for NP and AEI, higher values (redder colors) contribute to calmness, while for M and AR, lower values (bluer colors) make a scene feel more calm.
+Looking at the color coding - red indicates high values, yellow is mid-range, and dark blue shows lower values. For NP and AEI, higher values (redder colors) contribute to calmness, while for M and AR, lower values (bluer colors) make a scene feel more calm.
 
 When we arrange the scenes by their overall calmness score, patterns emerge that align remarkably with narrative function. Notice how the calmest scenes at the top - like Nostalghia Scene16 and Scene05 - feature gentle dripping rain and distant reverberation. These precisely correspond to moments of ritual, memory, and threshold experiences in the films.
 
@@ -264,6 +265,10 @@ layout: default
   <source src="/video/Nostalghia_Scene05_HotelRoomRain.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
+
+<!-- 
+You should have time to play about **3 minutes** of the clip.
+ -->
 
 ---
 layout: side-title
