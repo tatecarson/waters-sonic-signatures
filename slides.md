@@ -19,7 +19,7 @@ csl_template_file: style.json
 
 Computational Sound Studies and Ecological Awareness in Tarkovsky's Films 
 
-**Tate Carson**, **Dakota State University**
+**Tate Carson** | **Assistant Professor of Sound Design** | **Dakota State University**
 
 <!--
 When we watch the films of Russian director Andrei Tarkovsky, water isn't just a background element—it speaks to us through both sound and image, creating what I believe is a profound ecological awareness. In my research, I've combined computational methods with qualitative analysis to explore how the sounds of water in Solaris, Stalker, and Nostalghia contribute to this environmental consciousness.
@@ -35,8 +35,6 @@ image: /images/stalker-rain.png
 ## Why Water and Tarkovsky?
 
 In his book Sculpting in Time, Tarkovsky offers us a fascinating glimpse into his thinking about natural elements like water. He reflects on rain, saying it's not just symbolic weather but part of 'the truth of our lives.' What strikes me about his perspective is how he seems almost defensive when people search for hidden meanings in his natural imagery. He tells us quite directly: 'I am puzzled when I am told that people cannot simply enjoy watching nature.' For him, these elements create an 'aesthetic setting' rather than functioning as symbols—something he rejects with a passionate 'Heaven forbid!'
-
-This tension between Tarkovsky's stated intentions and how his films actually affect us as viewers is what makes his use of water sounds so compelling to explore.
 -->
 
 ---
@@ -100,7 +98,7 @@ Before explaining the quantitative basis for this presentation, let me frame the
 
 Cinema uses spectacle, narrative, and meaning to draw us into what I'd call relational ecologies—these spaces where our perception and the world become deeply intertwined.
 
-Tarkovsky's films exemplify this perfectly. They foster ecological awareness by making visible the world's materiality and vitality. And this is where sound becomes so critical—as Jordan's concept of audiovisual ecology suggests, it's not just the images but the sounds working together that shape our ecological perception. In Tarkovsky's case, those water sounds aren't just background—they're actively creating our experience of his cinematic world.
+Tarkovsky's films exemplify this perfectly. They foster ecological awareness by making visible the world's materiality and vitality. And this is where sound becomes so critical—as Randolph Jordan's concept of audiovisual ecology suggests, it's not just the images but the sounds working together that shape our ecological perception. In Tarkovsky's case, those water sounds aren't just background—they're actively creating our experience of his cinematic world.
 -->
 
 
@@ -184,7 +182,7 @@ align: rm-lm
 - A step toward computational ecocinema analysis.
 
 <!-- 
-What I'm explore is a novel methodological bridge between two fields that don't typically talk to each other. By applying these ecoacoustic indices to film soundtracks, we can start to quantify something that's usually discussed only qualitatively.
+What I'm exploring is a novel methodological bridge between two fields that don't typically talk to each other. By applying these ecoacoustic indices to film soundtracks, we can start to quantify something that's usually discussed only qualitatively.
 
 This approach could reveal which sonic environments might cultivate ecological awareness in viewers. It gives us more ways to differentiate scenes dominated by natural elements versus those filled with human-made sounds.
 
@@ -220,11 +218,7 @@ image: /images/spreadsheet.png
 ---
 
 <!--
-- **Water Type**: flowing, dripping, still  
-- **Sonic Features**: reverberant, layered, low-frequency  
-- **Chionian Function**: rendering, symbolic, reproduction  
-- **Ecological Connection**: water as memory, habitat, contamination  
-- **MSI Level**: Material–Social–Imaginal axis
+I've analyzed all the water types in these films, as well as narrative functions and MSI levels, but due to time, the rest of this presentation will focus only on rain sounds. 
  -->
 
 ---
@@ -234,7 +228,7 @@ layout: default
 ![](/figures/fig_water_type_bar.svg)
 
 <!-- 
-In this chart we can see quantitative evidence of how Tarkovsky employs different water types across Solaris, Stalker, and Nostalghia. We can see how each film develops its own distinctive water signature. Stalker overwhelmingly features pond stillness, or bodies of still soundless water; and splashing scenes, which perfectly aligns with its marshy Zone environment where still waters invite philosophical contemplation and spiritual questioning.
+In this chart we can see quantitative evidence of how Tarkovsky employs different water types across Solaris, Stalker, and Nostalghia. We can see how each film develops its own distinctive water signature. Stalker overwhelmingly features pond stillness, or bodies of still soundless water, and splashing scenes.
 
 Solaris, on the other hand, shows a pronounced emphasis on submersion scenes - of the ocean of Solaris. We don't dive into the ocean, but immerse in it psychologically. We literally and figuratively enter the underwater consciousness of the characters.
 
@@ -257,9 +251,9 @@ This heatmap shows a 'calmness' ranking of Tarkovsky's rain scenes using ecoacou
 
 Looking at the color coding - red indicates high values, yellow is mid-range, and dark blue shows lower values. For NP and AEI, higher values (redder colors) contribute to calmness, while for M and AR, lower values (bluer colors) make a scene feel more calm.
 
-When we arrange the scenes by their overall calmness score, patterns emerge that align with narrative function. The calmest scenes at the top - like Nostalghia Scene16 and Scene05 - feature gentle dripping rain and distant reverberation. These precisely correspond to moments of ritual, memory, and threshold experiences in the films.
+When we arrange the scenes by their overall calmness score, patterns emerge that align with narrative function. The calmest scenes at the top - like Nostalghia Scene16 and Scene05 - feature gentle dripping rain and distant reverberation. These precisely correspond to moments of ritual, memory, and threshold experiences.
 
-In contrast, the scenes at the bottom from Solaris display denser water movements and correspond to narrative climaxes or emotional confrontations. This quantitative approach reveals how Tarkovsky's sonic strategies actively reinforce his signature contemplative narrative structure - it's not just aesthetic preference, but a carefully calibrated technique linking sound design to narrative function.
+In contrast, the scenes at the bottom from Solaris display denser water movements and correspond to narrative climaxes or emotional confrontations. This quantitative approach reveals how Tarkovsky's sonic strategies actively reinforce his signature contemplative narrative structure.
 -->
 
 ---
@@ -302,7 +296,7 @@ What's valuable about this approach is how it bridges traditionally separate fie
 
 The computational methods I've demonstrated today with the rain scene analysis show how quantitative approaches can enrich ecocinema studies. Those ecoacoustic indices measuring calmness and naturalness reveal how Tarkovsky's sonic environments cultivate what we might call an 'attunement to place' - reinforcing Ivakhiv's argument that cinema fundamentally reshapes our perceptual ecologies.
 
-Looking forward, I plan to extend this analysis to other water types like dripping and splashing to build a more comprehensive understanding of acoustic textures and their narrative roles. I'm also interested in developing more refined computational descriptors and designing a perception study to better connect these sonic features with embodied and affective responses from viewers. This work opens up new possibilities for understanding how film sound shapes our relationship with the natural world.
+Looking forward, I plan to extend this analysis to other water types from these films, like dripping and splashing, to build a more comprehensive understanding of acoustic textures and their narrative roles. I'm also interested in developing more refined computational descriptors and designing a perception study to better connect these sonic features with embodied and affective responses from viewers. This work opens up new possibilities for understanding how film sound shapes our relationship with the natural world.
 -->
 
 
